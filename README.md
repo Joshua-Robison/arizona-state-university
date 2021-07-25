@@ -1,4 +1,4 @@
-# ASU
+# Arizona State University
 
 This repository contains coursework from a machine learning and artificial intelligence certificate completed through Arizona State University.
 
