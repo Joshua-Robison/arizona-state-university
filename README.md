@@ -5,8 +5,8 @@ This repository contains coursework from a machine learning and artificial intel
 The main files are jupyter notebooks consisting of the following:
 - [bayesian machine learning](#Bayesian-Learning)
 - [kMeans clustering methods](#K-Means-Clustering)
-- [dynamic bayesian networks](#Dynamic-Bayes)
-- [convolutional neural networks](#Convolutional-Neural-Network)
+- [dynamic bayesian network](#Dynamic-Bayes)
+- [convolutional neural network](#Convolutional-Neural-Network)
 
 ### [Bayesian Learning](https://github.com/Joshua-Robison/ASU/blob/main/notebooks/bayes_model.ipynb)
 This example looks at binary classification. It uses the MNIST dataset (images 0 and 1) and Bayes formula to classify images.
