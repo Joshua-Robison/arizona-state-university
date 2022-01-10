@@ -1,7 +1,4 @@
-"""
-The file is for collecting and extracting MNIST
-dataset images for training and testing.
-"""
+"""The file is for collecting and extracting MNIST dataset images for training and testing."""
 import os
 import sys
 import functools
